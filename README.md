@@ -5,3 +5,6 @@ Principais aprendizados:
   - Manipulação de Data 
   - Seletores de divs
   - Manipulação de styles.
+
+![image](https://user-images.githubusercontent.com/60353241/127069353-1312b2b7-de3b-42e3-9271-8a0820a1eac5.png)
+
